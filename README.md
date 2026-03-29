@@ -47,7 +47,7 @@ Financial independence for women starts with household resource optimization. In
 
 
 # ⚡ Volt-Aura: DePIN Micro-Grid Arbitrageur
-![Volt-Aura Full Dashboard](./src/assets/dashboard.jpg)
+![Volt-Aura Full Dashboard](./src/assets/dashboard.png)
 
 This project was developed for Hackfinity 6.0 (10-hour Hackathon hosted by ACM-W, PES University). While the project focuses on the intelligence layer (Software) rather than physical infrastructure, it uses a Digital Twin logic to demonstrate real-world scalability in the DePIN economy.
 Turning Volatility into Opportunity.
